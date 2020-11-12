@@ -1,0 +1,100 @@
+ID RMU,Nume,Domeniu fundamental,ID Domeniu fundamental,Ramura stiinta,ID Ramura stiinta,isLicenta,isMaster,isDoctorat,An
+1,Matematică,Matematică şi ştiinţe ale naturii,16,Matematică,1,1,1,1,2020
+2,Fizică,Matematică şi ştiinţe ale naturii,16,Fizică,2,1,1,1,2020
+3,Chimie,Matematică şi ştiinţe ale naturii,16,Chimie şi inginerie chimică,3,1,1,1,2020
+5,Biologie,Ştiinţe biologice şi biomedicale,17,Biologie,12,1,1,1,2020
+6,Geografie,Matematică şi ştiinţe ale naturii,16,Ştiinţele pământului şi atmosferei,4,1,1,1,2020
+7,Geologie,Matematică şi ştiinţe ale naturii,16,Ştiinţele pământului şi atmosferei,4,1,1,1,2020
+8,Ştiinţa mediului,Matematică şi ştiinţe ale naturii,16,Ştiinţele pământului şi atmosferei,4,1,1,1,2020
+9,Filosofie,Ştiinţe umaniste şi arte,19,Filosofie,27,1,1,1,2020
+10,Limbă şi literatură,Ştiinţe umaniste şi arte,19,Filologie,26,1,0,0,2020
+11,Limbi moderne aplicate,Ştiinţe umaniste şi arte,19,Filologie,26,1,0,0,2020
+12,Istorie,Ştiinţe umaniste şi arte,19,Istorie,28,1,1,1,2020
+13,Studii culturale,Ştiinţe umaniste şi arte,19,Studii culturale,30,1,1,1,2020
+14,Teologie,Ştiinţe umaniste şi arte,19,Teologie,29,1,1,1,2020
+15,Drept,Ştiinţe sociale,18,Ştiinţe juridice,18,1,1,1,2020
+16,Sociologie,Ştiinţe sociale,18,Sociologie,21,1,1,1,2020
+17,Asistenţă socială,Ştiinţe sociale,18,Sociologie,21,1,1,1,2020
+18,Ştiinţe politice,Ştiinţe sociale,18,Ştiinţe politice,22,1,1,1,2020
+19,Relaţii internaţionale şi studii europene,Ştiinţe sociale,18,Ştiinţe politice,22,1,1,1,2020
+20,Ştiinţe administrative,Ştiinţe sociale,18,Ştiinţe administrative,19,1,1,1,2020
+21,Ştiinţe ale comunicării,Ştiinţe sociale,18,Ştiinţe ale comunicării,20,1,1,1,2020
+22,Ştiinţe ale educaţiei,Ştiinţe sociale,18,Psihologie şi ştiinţe comportamentale,25,1,1,1,2020
+23,Psihologie,Ştiinţe sociale,18,Psihologie şi ştiinţe comportamentale,25,1,1,1,2020
+24,Economie,Ştiinţe sociale,18,Ştiinţe economice,24,1,1,1,2020
+25,Finanţe,Ştiinţe sociale,18,Ştiinţe economice,24,1,1,1,2020
+26,Administrarea afacerilor,Ştiinţe sociale,18,Ştiinţe economice,24,1,1,1,2020
+27,Contabilitate,Ştiinţe sociale,18,Ştiinţe economice,24,1,1,1,2020
+28,"Cibernetică, statistică şi informatică economică",Ştiinţe sociale,18,Ştiinţe economice,24,1,0,0,2020
+29,Economie şi afaceri internaţionale,Ştiinţe sociale,18,Ştiinţe economice,24,1,1,1,2020
+30,Management,Ştiinţe sociale,18,Ştiinţe economice,24,1,1,1,2020
+31,Marketing,Ştiinţe sociale,18,Ştiinţe economice,24,1,1,1,2020
+32,Teatru şi artele spectacolului,Ştiinţe umaniste şi arte,19,Arte,32,1,1,1,2020
+33,Cinematografie şi media,Ştiinţe umaniste şi arte,19,Arte,32,1,1,1,2020
+34,Muzică,Ştiinţe umaniste şi arte,19,Arte,32,1,1,1,2020
+35,Arte vizuale,Ştiinţe umaniste şi arte,19,Arte,32,1,1,1,2020
+36,Arhitectură,Ştiinţe umaniste şi arte,19,Arhitectură şi urbanism,31,1,1,1,2020
+37,Urbanism,Ştiinţe umaniste şi arte,19,Arhitectură şi urbanism,31,1,1,1,2020
+38,Educaţie fizică şi sport,Ştiinţa Sportului şi Educaţiei Fizice,20,Ştiinţa Sportului şi Educaţiei Fizice,33,1,0,0,2020
+39,Agronomie,Ştiinţe inginereşti,12,Ingineria resurselor vegetale şi animale,9,1,1,1,2020
+40,Horticultură,Ştiinţe inginereşti,12,Ingineria resurselor vegetale şi animale,9,1,1,1,2020
+41,Silvicultură,Ştiinţe inginereşti,12,Ingineria resurselor vegetale şi animale,9,1,1,1,2020
+42,Zootehnie,Ştiinţe inginereşti,12,Ingineria resurselor vegetale şi animale,9,1,1,1,2020
+43,Biotehnologii,Ştiinţe inginereşti,12,Ingineria resurselor vegetale şi animale,9,1,1,1,2020
+44,Calculatoare şi tehnologia informaţiei,Ştiinţe inginereşti,12,"Ingineria sistemelor, calculatoare şi tehnologia informaţiei",10,1,1,1,2020
+45,Inginerie genistică,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,0,0,2020
+46,Inginerie geodezică,Ştiinţe inginereşti,12,"Inginerie geologică, mine, petrol şi gaze",7,1,1,1,2020
+47,Inginerie aerospaţială,Ştiinţe inginereşti,12,Ingineria transporturilor,8,1,1,1,2020
+48,Inginerie chimică,Matematică şi ştiinţe ale naturii,16,Chimie şi inginerie chimică,3,1,1,1,2020
+49,Inginerie civilă,Ştiinţe inginereşti,12,Inginerie civilă,5,1,0,0,2020
+50,Ingineria instalaţiilor,Ştiinţe inginereşti,12,Inginerie civilă,5,1,0,0,2020
+51,"Inginerie de armament, rachete şi muniţii",Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,0,0,2020
+52,Inginerie electrică,Ştiinţe inginereşti,12,"Inginerie electrică, electronică şi telecomunicaţii",6,1,1,1,2020
+53,"Inginerie electronică, telecomunicaţii şi tehnologii informaţionale",Ştiinţe inginereşti,12,"Inginerie electrică, electronică şi telecomunicaţii",6,1,1,1,2020
+54,Inginerie energetică,Ştiinţe inginereşti,12,"Inginerie electrică, electronică şi telecomunicaţii",6,1,1,1,2020
+55,Inginerie geologică,Ştiinţe inginereşti,12,"Inginerie geologică, mine, petrol şi gaze",7,1,1,1,2020
+56,Inginerie industrială,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,1,1,2020
+57,Inginerie forestieră,Ştiinţe inginereşti,12,Ingineria resurselor vegetale şi animale,9,1,1,1,2020
+58,Ingineria produselor alimentare,Ştiinţe inginereşti,12,Ingineria resurselor vegetale şi animale,9,1,1,1,2020
+59,Ingineria autovehiculelor,Ştiinţe inginereşti,12,Ingineria transporturilor,8,1,1,1,2020
+60,Ingineria materialelor,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,1,1,2020
+61,Inginerie mecanică,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,1,1,2020
+62,Ingineria mediului,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,1,1,2020
+63,Arhitectură navală,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,1,1,2020
+64,Inginerie marină şi navigaţie,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,0,0,2020
+65,Ingineria sistemelor,Ştiinţe inginereşti,12,"Ingineria sistemelor, calculatoare şi tehnologia informaţiei",10,1,1,1,2020
+66,Inginerie şi management,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,1,1,2020
+67,Ingineria transporturilor,Ştiinţe inginereşti,12,Ingineria transporturilor,8,1,1,1,2020
+68,Mecatronică şi robotică,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,1,1,2020
+69,"Mine, petrol şi gaze",Ştiinţe inginereşti,12,"Inginerie geologică, mine, petrol şi gaze",7,1,1,1,2020
+70,Ştiinţe inginereşti aplicate,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,1,1,1,2020
+71,"Ştiinţe militare, informaţii şi ordine publică",Ştiinţe sociale,18,"Ştiinţe militare, informaţii şi ordine publică",23,1,0,0,2020
+72,Medicină veterinară,Ştiinţe biologice şi biomedicale,17,Medicină veterinară,15,1,1,1,2020
+75,Biologie (Biochimie),Ştiinţe biologice şi biomedicale,17,Biochimie,13,1,0,0,2020
+76,Kinetoterapie,Ştiinţa Sportului şi Educaţiei Fizice,20,Ştiinţa Sportului şi Educaţiei Fizice,33,1,0,0,2020
+77,Sănătate (Medicină - Reglementată sectorial),Ştiinţe biologice şi biomedicale,17,Medicină,14,1,0,0,2020
+78,Sănătate (Medicină - Reglementată general),Ştiinţe biologice şi biomedicale,17,Medicină,14,1,0,0,2020
+79,Sănătate (Medicină Dentară - Reglementată sectorial),Ştiinţe biologice şi biomedicale,17,Medicină dentară,16,1,0,0,2020
+80,Sănătate (Farmacie - Reglementată sectorial),Ştiinţe biologice şi biomedicale,17,Farmacie,17,1,0,0,2020
+81,Sănătate (Medicină Dentară - Reglementată general),Ştiinţe biologice şi biomedicale,17,Medicină dentară,16,1,0,0,2020
+82,Sănătate (Farmacie - Reglementată general),Ştiinţe biologice şi biomedicale,17,Farmacie,17,1,0,0,2020
+83,Inginerie şi management în agricultură şi dezvoltare rurală,Ştiinţe inginereşti,12,Ingineria resurselor vegetale şi animale,9,1,1,1,2020
+84,Studiul patrimoniului (Heritage Studies),Ştiinţe umaniste şi arte,19,Istorie,28,1,0,0,2020
+85,Inginerie civilă și instalații,Ştiinţe inginereşti,12,Inginerie civilă,5,0,1,1,2020
+86,Inginerie navală și navigație,Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,0,1,1,2020
+87,"Inginerie genistică, Inginerie de armament, rachete și muniții",Ştiinţe inginereşti,12,"Inginerie mecanică, mecatronică, inginerie industrială şi management",11,0,1,1,2020
+88,Biochimie,Ştiinţe biologice şi biomedicale,17,Biochimie,13,0,1,1,2020
+89,Medicină,Ştiinţe biologice şi biomedicale,17,Medicină,14,0,1,1,2020
+90,Medicină dentară,Ştiinţe biologice şi biomedicale,17,Medicină dentară,16,0,1,1,2020
+91,Farmacie,Ştiinţe biologice şi biomedicale,17,Farmacie,17,0,1,1,2020
+93,Științe militare,Ştiinţe sociale,18,"Ştiinţe militare, informaţii şi ordine publică",23,0,1,1,2020
+94,Informații și securitate națională,Ştiinţe sociale,18,"Ştiinţe militare, informaţii şi ordine publică",23,0,1,1,2020
+95,Ordine publică și siguranță națională,Ştiinţe sociale,18,"Ştiinţe militare, informaţii şi ordine publică",23,0,1,1,2020
+96,Cibernetică și statistică,Ştiinţe sociale,18,Ştiinţe economice,24,0,1,1,2020
+97,Informatică economică,Ştiinţe sociale,18,Ştiinţe economice,24,0,1,1,2020
+99,Filologie,Ştiinţe umaniste şi arte,19,Filologie,26,0,1,1,2020
+100,Istoria și teoria artei,Ştiinţe umaniste şi arte,19,Arte,32,0,1,1,2020
+101,Știința sportului și educației fizice,Ştiinţa Sportului şi Educaţiei Fizice,20,Ştiinţa Sportului şi Educaţiei Fizice,33,0,1,1,2020
+4,Informatică,Matematică şi ştiinţe ale naturii,16,Informatică,36,1,1,1,2020
+115,Management în sport,Ştiinţa Sportului şi Educaţiei Fizice,20,Ştiinţa Sportului şi Educaţiei Fizice,33,1,0,0,2020
+118,Studii de securitate,Ştiinţe sociale,18,Ştiinţe politice,22,1,1,1,2020

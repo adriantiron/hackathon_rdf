@@ -1,0 +1,1672 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://w3c/future-csv-vocab/"
+    xmlns:j.1="http://example.org#Cod%20"
+    xmlns:j.2="http://example.org#"
+    xmlns:j.3="http://example.org#Adresa%20"
+    xmlns:j.4="http://example.org#ID%20">
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >62</j.4:RMU>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.3:web>https://www.spiruharet.ro/</j.3:web>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.2:Nume>Universitatea "Spiru Haret" din Bucureşti</j.2:Nume>
+    <j.1:Universitate>P06</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >57</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >78</j.4:RMU>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2094</j.4:Localitate>
+    <j.1:Universitate>P22</j.1:Universitate>
+    <j.2:Localitate>ORADEA</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >14</j.4:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >71</j.0:row>
+    <j.2:Judet>Bihor</j.2:Judet>
+    <j.3:web>https://www.emanuel.ro/</j.3:web>
+    <j.2:Nume>Universitatea "Emanuel" din Oradea</j.2:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Judet>Iaşi</j.2:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.3:web>http://www.univ-st-lupascu.ro/</j.3:web>
+    <j.2:Nume>Fundaţia "Ştefan Lupaşcu" - Institutul de Studii Europene din Iaşi</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7630</j.4:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >84</j.0:row>
+    <j.1:Universitate>PA06</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >97</j.4:RMU>
+    <j.2:Localitate>IAŞI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >54</j.0:row>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >59</j.4:RMU>
+    <j.3:web>https://www.univnt.ro/</j.3:web>
+    <j.1:Universitate>P03</j.1:Universitate>
+    <j.2:Nume>Universitatea "Nicolae Titulescu" din Bucureşti</j.2:Nume>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Judet>Galaţi</j.2:Judet>
+    <j.3:web>https://www.univ-danubius.ro/</j.3:web>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5952</j.4:Localitate>
+    <j.1:Universitate>P19</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Localitate>GALAŢI</j.2:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >69</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >28</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >75</j.4:RMU>
+    <j.2:Nume>Universitatea "Danubius" din Galaţi</j.2:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >64</j.0:row>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.3:web>https://www.uvvg.ro/site/</j.3:web>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3</j.4:Judet>
+    <j.2:Localitate>ARAD</j.2:Localitate>
+    <j.1:Universitate>P14</j.1:Universitate>
+    <j.2:Judet>Arad</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >717</j.4:Localitate>
+    <j.2:Nume>Universitatea de Vest "Vasile Goldiş" din Arad</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >70</j.4:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >1</j.0:row>
+    <j.1:Universitate>U01</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.4:RMU>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Nume>Universitatea Politehnica din Bucureşti</j.2:Nume>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.3:web>https://upb.ro/</j.3:web>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>https://www.unitbv.ro/</j.3:web>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >16</j.0:row>
+    <j.2:Localitate>BRAŞOV</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3143</j.4:Localitate>
+    <j.1:Universitate>U17</j.1:Universitate>
+    <j.2:Nume>Universitatea "Transilvania" din Braşov</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:RMU>
+    <j.2:Judet>Braşov</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Judet>Constanţa</j.2:Judet>
+    <j.2:Nume>Universitatea "Andrei Şaguna" din Constanţa</j.2:Nume>
+    <j.3:web>https://andreisaguna.ro/</j.3:web>
+    <j.2:Localitate>CONSTANŢA</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4847</j.4:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >74</j.4:RMU>
+    <j.1:Universitate>P18</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >68</j.0:row>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>http://www.uab.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.4:Localitate>
+    <j.2:Nume>Universitatea "1 decembrie 1918" din Alba Iulia</j.2:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >13</j.0:row>
+    <j.2:Localitate>ALBA IULIA</j.2:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13</j.4:RMU>
+    <j.1:Universitate>U13</j.1:Universitate>
+    <j.2:Judet>Alba</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11198</j.4:Localitate>
+    <j.1:Universitate>U40</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >44</j.4:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >37</j.0:row>
+    <j.3:web>https://usv.ro/</j.3:web>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >40</j.4:RMU>
+    <j.2:Judet>Suceava</j.2:Judet>
+    <j.2:Localitate>SUCEAVA</j.2:Localitate>
+    <j.2:Nume>Universitatea "Ştefan cel Mare" din Suceava</j.2:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:Universitate>P23</j.1:Universitate>
+    <j.2:Nume>Universitatea "Constantin Brâncoveanu" din Piteşti</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >79</j.4:RMU>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1000</j.4:Localitate>
+    <j.2:Localitate>PITEŞTI</j.2:Localitate>
+    <j.3:web>http://www.univcb.ro/</j.3:web>
+    <j.2:Judet>Argeş</j.2:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >72</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >14</j.0:row>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >717</j.4:Localitate>
+    <j.2:Nume>Universitatea "Aurel Vlaicu" din Arad</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >14</j.4:RMU>
+    <j.2:Judet>Arad</j.2:Judet>
+    <j.3:web>https://www.uav.ro/</j.3:web>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3</j.4:Judet>
+    <j.2:Localitate>ARAD</j.2:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.1:Universitate>U14</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>https://cmu-edu.eu/</j.3:web>
+    <j.2:Localitate>CONSTANŢA</j.2:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.1:Universitate>U25</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >25</j.4:RMU>
+    <j.2:Nume>Universitatea Maritimă din Constanţa</j.2:Nume>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.4:Judet>
+    <j.2:Judet>Constanţa</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4847</j.4:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >24</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.1:Universitate>U10</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >10</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >10</j.4:RMU>
+    <j.3:web>https://www.unatc.ro/prezentare/index.php</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Nume>Universitatea Naţională de Artă Teatrală şi Cinematografică "I. L. Caragiale" din Bucureşti</j.2:Nume>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Judet>Dâmboviţa</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >25</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >41</j.4:RMU>
+    <j.2:Nume>Universitatea "Valahia" din Târgovişte</j.2:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >38</j.0:row>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5188</j.4:Localitate>
+    <j.3:web>https://www.valahia.ro/ro/</j.3:web>
+    <j.1:Universitate>U41</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Localitate>TÎRGOVIŞTE</j.2:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Nume>Universitatea "Hyperion" din Bucureşti</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.3:web>https://www.hyperion.ro/</j.3:web>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.1:Universitate>P05</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >56</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >61</j.4:RMU>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >37</j.4:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >8767</j.4:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Mureş</j.2:Judet>
+    <j.2:Nume>Universitatea de Arte din Târgu Mureş</j.2:Nume>
+    <j.3:web>https://www.uat.ro/acasa</j.3:web>
+    <j.2:Localitate>TÎRGU MUREŞ</j.2:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >41</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >45</j.4:RMU>
+    <j.1:Universitate>U45</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >58</j.4:RMU>
+    <j.3:web>https://www.utm.ro/</j.3:web>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >53</j.0:row>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Nume>Universitatea "Titu Maiorescu" din Bucureşti</j.2:Nume>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.1:Universitate>P02</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Nume>Universitatea "Avram Iancu" din Cluj-Napoca</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4413</j.4:Localitate>
+    <j.3:web>www.uai-cluj.ro</j.3:web>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >76</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >84</j.4:RMU>
+    <j.1:Universitate>P28</j.1:Universitate>
+    <j.2:Localitate>CLUJ-NAPOCA</j.2:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Cluj</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>https://www.unap.ro/</j.3:web>
+    <j.2:Nume>Universitatea Naţională de Apărare "Carol I" din Bucureşti</j.2:Nume>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.1:Universitate>U51</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >46</j.0:row>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >51</j.4:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7630</j.4:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >93</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >33</j.4:RMU>
+    <j.2:Judet>Iaşi</j.2:Judet>
+    <j.3:web>http://www.arteiasi.ro/</j.3:web>
+    <j.1:Universitate>U33</j.1:Universitate>
+    <j.2:Nume>Universitatea Naţională de Arte "George Enescu" din Iaşi</j.2:Nume>
+    <j.2:Localitate>IAŞI</j.2:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >89</j.0:row>
+    <j.2:Nume>Fundaţia "Gaudeamus" - Universitatea "Tomis" din Constanţa</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >110</j.4:RMU>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.4:Judet>
+    <j.3:web>https://www.univ-tomis.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4847</j.4:Localitate>
+    <j.2:Localitate>CONSTANŢA</j.2:Localitate>
+    <j.2:Judet>Constanţa</j.2:Judet>
+    <j.1:Universitate>PA19</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >15</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >15</j.4:RMU>
+    <j.2:Judet>Bacău</j.2:Judet>
+    <j.2:Nume>Universitatea "Vasile Alecsandri" din Bacău</j.2:Nume>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1585</j.4:Localitate>
+    <j.2:Localitate>BACĂU</j.2:Localitate>
+    <j.1:Universitate>U15</j.1:Universitate>
+    <j.3:web>https://www.ub.ro/</j.3:web>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:An>http://www.imar.ro/~snsb/</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.4:Localitate>
+    <j.2:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.2:Localitate>
+    <j.4:Judet>BUCUREŞTI</j.4:Judet>
+    <j.2:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.2:Judet>
+    <j.1:Universitate>Bucureşti</j.1:Universitate>
+    <j.2:Nume>Şcoala Normală Superioară - Bucureşti (S.N.S.B)</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >506</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >94</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.3:web>http://www.uad.ro/</j.3:web>
+    <j.2:Judet>Cluj</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4413</j.4:Localitate>
+    <j.2:Nume>Universitatea de Artă şi Design din Cluj-Napoca</j.2:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >22</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.4:RMU>
+    <j.2:Localitate>CLUJ-NAPOCA</j.2:Localitate>
+    <j.1:Universitate>U23</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>http://timotheus.ro/</j.3:web>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >90</j.0:row>
+    <j.2:Nume>Institutul Teologic Creştin după Evanghelie "Timotheus" din Bucureşti</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.1:Universitate>PA20</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >111</j.4:RMU>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >35</j.4:RMU>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >30</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.3:web>https://www.upet.ro/</j.3:web>
+    <j.2:Localitate>PETROŞANI</j.2:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >32</j.0:row>
+    <j.1:Universitate>U35</j.1:Universitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7022</j.4:Localitate>
+    <j.2:Judet>Hunedoara</j.2:Judet>
+    <j.2:Nume>Universitatea din Petroşani</j.2:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Judet>Constanţa</j.2:Judet>
+    <j.3:web>https://www.anmb.ro/#gsc.tab=0</j.3:web>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4847</j.4:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.1:Universitate>U55</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >50</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.4:Judet>
+    <j.2:Nume>Academia Navală "Mircea cel Bătrân" din Constanţa</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >55</j.4:RMU>
+    <j.2:Localitate>CONSTANŢA</j.2:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Localitate>TIMIŞOARA</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11846</j.4:Localitate>
+    <j.1:Universitate>U48</j.1:Universitate>
+    <j.2:Nume>Universitatea de Vest din Timişoara</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >46</j.4:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >44</j.0:row>
+    <j.3:web>https://www.uvt.ro/ro/</j.3:web>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >48</j.4:RMU>
+    <j.2:Judet>Timiş</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:Universitate>P27</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >75</j.0:row>
+    <j.2:Nume>Universitatea "Tibiscus" din Timişoara</j.2:Nume>
+    <j.2:Judet>Timiş</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11846</j.4:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >46</j.4:Judet>
+    <j.2:Localitate>TIMIŞOARA</j.2:Localitate>
+    <j.3:web>https://www.tibiscus.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >83</j.4:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >98</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.4:Judet>
+    <j.1:Universitate>U32</j.1:Universitate>
+    <j.3:web>https://www.umfiasi.ro/ro</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Iaşi</j.2:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >32</j.4:RMU>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7630</j.4:Localitate>
+    <j.2:Localitate>IAŞI</j.2:Localitate>
+    <j.2:Nume>Universitatea de Medicină şi Farmacie "Grigore T. Popa" din Iaşi</j.2:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Nume>Institutul de Administrare a Afacerilor din Bucureşti</j.2:Nume>
+    <j.1:Universitate>P34</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >90</j.4:RMU>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.3:web>http://www.asebuss.ro</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >81</j.0:row>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>http://anmgd.ro/</j.3:web>
+    <j.2:Nume>Academia de Muzică "Gheorghe Dima" din Cluj-Napoca</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >22</j.4:RMU>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:Judet>
+    <j.2:Localitate>CLUJ-NAPOCA</j.2:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >21</j.0:row>
+    <j.1:Universitate>U22</j.1:Universitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4413</j.4:Localitate>
+    <j.2:Judet>Cluj</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:Universitate>P10</j.1:Universitate>
+    <j.2:Nume>Universitatea "Athenaeum" din Bucureşti</j.2:Nume>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >61</j.0:row>
+    <j.3:web>http://nou.univath.ro/</j.3:web>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >66</j.4:RMU>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11847</j.4:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >46</j.4:Judet>
+    <j.2:Nume>Universitatea Europeană "Drăgan" din Lugoj</j.2:Nume>
+    <j.3:web>http://www.universitateaeuropeanadragan.ro/</j.3:web>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >76</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >70</j.0:row>
+    <j.2:Judet>Timiş</j.2:Judet>
+    <j.1:Universitate>P20</j.1:Universitate>
+    <j.2:Localitate>LUGOJ</j.2:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >64</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >59</j.0:row>
+    <j.3:web>https://www.ueb.ro/</j.3:web>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.1:Universitate>P08</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Nume>Universitatea Ecologică din Bucureşti</j.2:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:Universitate>U46</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >42</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >46</j.4:RMU>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11846</j.4:Localitate>
+    <j.3:web>https://www.upt.ro/</j.3:web>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >46</j.4:Judet>
+    <j.2:Localitate>TIMIŞOARA</j.2:Localitate>
+    <j.2:Nume>Universitatea Politehnica Timişoara</j.2:Nume>
+    <j.2:Judet>Timiş</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >19</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:RMU>
+    <j.1:Universitate>U20</j.1:Universitate>
+    <j.2:Localitate>CLUJ-NAPOCA</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4413</j.4:Localitate>
+    <j.2:Nume>Universitatea "Babeş-Bolyai" din Cluj-Napoca</j.2:Nume>
+    <j.2:Judet>Cluj</j.2:Judet>
+    <j.3:web>https://www.ubbcluj.ro/ro/</j.3:web>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Nume>Universitatea "Bioterra" din Bucureşti</j.2:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >58</j.0:row>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >63</j.4:RMU>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.3:web>https://bioterra.ro/</j.3:web>
+    <j.1:Universitate>P07</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:Universitate>P31</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >79</j.0:row>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >87</j.4:RMU>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7630</j.4:Localitate>
+    <j.3:web>http://www.upa.ro/</j.3:web>
+    <j.2:Nume>Universitatea "Petre Andrei" din Iaşi</j.2:Nume>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.4:Judet>
+    <j.2:Localitate>IAŞI</j.2:Localitate>
+    <j.2:Judet>Iaşi</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4413</j.4:Localitate>
+    <j.2:Nume>Universitatea de Ştiinţe Agricole şi Medicină Veterinară din Cluj-Napoca</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >18</j.0:row>
+    <j.2:Localitate>CLUJ-NAPOCA</j.2:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:RMU>
+    <j.1:Universitate>U19</j.1:Universitate>
+    <j.2:Judet>Cluj</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:Judet>
+    <j.3:web>https://www.usamvcluj.ro/</j.3:web>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >17</j.0:row>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4413</j.4:Localitate>
+    <j.1:Universitate>U18</j.1:Universitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:Judet>
+    <j.3:web>https://www.utcluj.ro/</j.3:web>
+    <j.2:Judet>Cluj</j.2:Judet>
+    <j.2:Nume>Universitatea Tehnică din Cluj-Napoca</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Localitate>CLUJ-NAPOCA</j.2:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.1:Universitate>U12</j.1:Universitate>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.2:Nume>Şcoala Naţională de Studii Politice şi Administrative din Bucureşti</j.2:Nume>
+    <j.3:web>http://snspa.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >12</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >8</j.4:RMU>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.3:web>https://www.unmb.ro/</j.3:web>
+    <j.1:Universitate>U08</j.1:Universitate>
+    <j.2:Nume>Universitatea Naţională de Muzică din Bucureşti</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >8</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5</j.4:RMU>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.2:Nume>Universitatea din Bucureşti</j.2:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >5</j.0:row>
+    <j.3:web>https://unibuc.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.1:Universitate>U05</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2</j.4:RMU>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Nume>Universitatea Tehnică de Construcţii din Bucureşti</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.1:Universitate>U02</j.1:Universitate>
+    <j.3:web>https://utcb.ro/</j.3:web>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >2</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >47</j.4:RMU>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Timiş</j.2:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >43</j.0:row>
+    <j.3:web>https://www.usab-tm.ro/ro</j.3:web>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11846</j.4:Localitate>
+    <j.1:Universitate>U47</j.1:Universitate>
+    <j.2:Nume>Universitatea de Ştiinţe Agricole şi Medicină Veterinară a Banatului "Regele Mihai I al României" din Timişoara</j.2:Nume>
+    <j.2:Localitate>TIMIŞOARA</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >46</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Cluj</j.2:Judet>
+    <j.3:web>http://www.umfcluj.ro/</j.3:web>
+    <j.2:Nume>Universitatea de Medicină şi Farmacie "Iuliu Haţieganu" din Cluj-Napoca</j.2:Nume>
+    <j.2:Localitate>CLUJ-NAPOCA</j.2:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >20</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >21</j.4:RMU>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4413</j.4:Localitate>
+    <j.1:Universitate>U21</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >57</j.4:RMU>
+    <j.3:web>https://www.ucdc.ro/</j.3:web>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >52</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.2:Nume>Universitatea Creştină "Dimitrie Cantemir" din Bucureşti</j.2:Nume>
+    <j.1:Universitate>P01</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Nume>Universitatea de Ştiinţe Agricole şi Medicină Veterinară "Ion Ionescu de La Brad" din Iaşi</j.2:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >29</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.4:Judet>
+    <j.3:web>https://www.uaiasi.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7630</j.4:Localitate>
+    <j.2:Judet>Iaşi</j.2:Judet>
+    <j.2:Localitate>IAŞI</j.2:Localitate>
+    <j.1:Universitate>U30</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >30</j.4:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >25</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >26</j.4:Judet>
+    <j.2:Nume>Universitatea din Craiova</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Localitate>CRAIOVA</j.2:Localitate>
+    <j.3:web>https://www.ucv.ro/</j.3:web>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5562</j.4:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >26</j.4:RMU>
+    <j.1:Universitate>U26</j.1:Universitate>
+    <j.2:Judet>Dolj</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Nume>Universitatea "Eftimie Murgu" din Reşiţa</j.2:Nume>
+    <j.1:Universitate>U38</j.1:Universitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3939</j.4:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >22</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >38</j.4:RMU>
+    <j.2:Judet>Caraş-Severin</j.2:Judet>
+    <j.2:Localitate>REŞIŢA</j.2:Localitate>
+    <j.3:web>https://uem.ro/</j.3:web>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >35</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >28</j.4:RMU>
+    <j.2:Localitate>GALAŢI</j.2:Localitate>
+    <j.2:Nume>Universitatea "Dunărea de Jos" din Galaţi</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >27</j.0:row>
+    <j.3:web>https://www.ugal.ro/</j.3:web>
+    <j.1:Universitate>U28</j.1:Universitate>
+    <j.2:Judet>Galaţi</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5952</j.4:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >28</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >54</j.4:RMU>
+    <j.2:Judet>Braşov</j.2:Judet>
+    <j.1:Universitate>U54</j.1:Universitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3143</j.4:Localitate>
+    <j.2:Localitate>BRAŞOV</j.2:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >49</j.0:row>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Nume>Academia Forţelor Aeriene "Henri Coandă" din Braşov</j.2:Nume>
+    <j.3:web>http://www.afahc.ro/</j.3:web>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:Universitate>PA03</j.1:Universitate>
+    <j.2:Judet>Ilfov</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >15929</j.4:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >94</j.4:RMU>
+    <j.2:Nume>Universitatea "Adventus" din Cernica</j.2:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >95</j.0:row>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Localitate>CERNICA</j.2:Localitate>
+    <j.3:web>https://uadventus.ro/</j.3:web>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >32</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:Universitate>U29</j.1:Universitate>
+    <j.3:web>https://www.tuiasi.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >29</j.4:RMU>
+    <j.2:Judet>Iaşi</j.2:Judet>
+    <j.2:Localitate>IAŞI</j.2:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >28</j.0:row>
+    <j.2:Nume>Universitatea Tehnică "Gheorghe Asachi" din Iaşi</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7630</j.4:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >100</j.4:RMU>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >14</j.4:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >86</j.0:row>
+    <j.3:web>http://univagora.ro/</j.3:web>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2094</j.4:Localitate>
+    <j.2:Nume>Universitatea Agora din Municipiul Oradea</j.2:Nume>
+    <j.1:Universitate>PA09</j.1:Universitate>
+    <j.2:Localitate>ORADEA</j.2:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Bihor</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >65</j.4:RMU>
+    <j.3:web>http://ugc.ro</j.3:web>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >60</j.0:row>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.1:Universitate>P09</j.1:Universitate>
+    <j.2:Nume>Universitatea Română de Ştiinţe şi Arte "Gheorghe Cristea" din Bucureşti</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >10029</j.4:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >34</j.0:row>
+    <j.2:Judet>Prahova</j.2:Judet>
+    <j.1:Universitate>U37</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.3:web>https://www.upg-ploiesti.ro/</j.3:web>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >37</j.4:RMU>
+    <j.2:Nume>Universitatea Petrol-Gaze din Ploieşti</j.2:Nume>
+    <j.2:Localitate>PLOIEŞTI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >40</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.4:Judet>
+    <j.2:Localitate>IAŞI</j.2:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >80</j.0:row>
+    <j.2:Judet>Iaşi</j.2:Judet>
+    <j.2:Nume>Universitatea "Apollonia" din Iaşi</j.2:Nume>
+    <j.3:web>https://www.univapollonia.ro/</j.3:web>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7630</j.4:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >88</j.4:RMU>
+    <j.1:Universitate>P32</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.2:Nume>Universitatea de Științe Agronomice și Medicină Veterinară din București</j.2:Nume>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.1:Universitate>U04</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:RMU>
+    <j.3:web>https://www.usamv.ro/index.php/ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >4</j.0:row>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Localitate>CONSTANŢA</j.2:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >23</j.0:row>
+    <j.2:Judet>Constanţa</j.2:Judet>
+    <j.1:Universitate>U24</j.1:Universitate>
+    <j.3:web>https://www.univ-ovidius.ro/</j.3:web>
+    <j.2:Nume>Universitatea "Ovidius" din Constanţa</j.2:Nume>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.4:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4847</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>https://www.utgjiu.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.1:Universitate>U42</j.1:Universitate>
+    <j.2:Nume>Universitatea "Constantin Brâncuşi" din Târgu Jiu</j.2:Nume>
+    <j.2:Localitate>TÎRGU JIU</j.2:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >42</j.4:RMU>
+    <j.2:Judet>Gorj</j.2:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >39</j.0:row>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >6305</j.4:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >27</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >73</j.4:RMU>
+    <j.3:web>http://www.ubv.ro/</j.3:web>
+    <j.2:Judet>Cluj</j.2:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Localitate>CLUJ-NAPOCA</j.2:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >67</j.0:row>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4413</j.4:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:Judet>
+    <j.2:Nume>Universitatea "Bogdan Vodă" din Cluj-Napoca</j.2:Nume>
+    <j.1:Universitate>P17</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >31</j.0:row>
+    <j.2:Nume>Universitatea din Oradea</j.2:Nume>
+    <j.2:Localitate>ORADEA</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >14</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Bihor</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2094</j.4:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.4:RMU>
+    <j.1:Universitate>U34</j.1:Universitate>
+    <j.3:web>https://www.uoradea.ro/Universitatea+din+Oradea</j.3:web>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>http://www.umfcv.ro/</j.3:web>
+    <j.2:Nume>Universitatea de Medicină şi Farmacie din Craiova</j.2:Nume>
+    <j.1:Universitate>U27</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >26</j.4:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >26</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >27</j.4:RMU>
+    <j.2:Localitate>CRAIOVA</j.2:Localitate>
+    <j.2:Judet>Dolj</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5562</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Localitate>IAŞI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.4:Judet>
+    <j.2:Nume>Universitatea "Alexandru Ioan Cuza" din Iaşi</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.1:Universitate>U31</j.1:Universitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7630</j.4:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >31</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >30</j.0:row>
+    <j.2:Judet>Iaşi</j.2:Judet>
+    <j.3:web>https://www.uaic.ro/</j.3:web>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:Universitate>U43</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >37</j.4:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >40</j.0:row>
+    <j.2:Judet>Mureş</j.2:Judet>
+    <j.3:web>https://old.upm.ro/</j.3:web>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >43</j.4:RMU>
+    <j.2:Localitate>TÎRGU MUREŞ</j.2:Localitate>
+    <j.2:Nume>Universitatea "Petru Maior" din Târgu Mureş</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >8767</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.1:Universitate>P29</j.1:Universitate>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >77</j.0:row>
+    <j.2:Nume>Institutul Teologic Penticostal din Bucureşti</j.2:Nume>
+    <j.3:web>https://www.itpbucuresti.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >85</j.4:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >36</j.0:row>
+    <j.3:web>https://www.ulbsibiu.ro/ro/</j.3:web>
+    <j.2:Judet>Sibiu</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >41</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Nume>Universitatea "Lucian Blaga" din Sibiu</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11010</j.4:Localitate>
+    <j.2:Localitate>SIBIU</j.2:Localitate>
+    <j.1:Universitate>U39</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >39</j.4:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11846</j.4:Localitate>
+    <j.2:Judet>Timiş</j.2:Judet>
+    <j.2:Localitate>TIMIŞOARA</j.2:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.1:Universitate>U49</j.1:Universitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >46</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >49</j.4:RMU>
+    <j.3:web>http://www.umft.ro/</j.3:web>
+    <j.2:Nume>Universitatea de Medicină şi Farmacie "Victor Babeş" din Timişoara</j.2:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >45</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>https://itb.ro/</j.3:web>
+    <j.2:Nume>Institutul Teologic Baptist din Bucureşti</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >69</j.4:RMU>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >63</j.0:row>
+    <j.1:Universitate>P13</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>https://www.rau.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >60</j.4:RMU>
+    <j.1:Universitate>P04</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >55</j.0:row>
+    <j.2:Nume>Universitatea Româno-Americană din Bucureşti</j.2:Nume>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>http://www.sapientia.ro/ro/facultati/cluj-napoca</j.3:web>
+    <j.2:Localitate>CLUJ-NAPOCA</j.2:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >83</j.0:row>
+    <j.1:Universitate>PA04</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >95</j.4:RMU>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4413</j.4:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Cluj</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:Judet>
+    <j.2:Nume>Universitatea "Sapientia" din Cluj-Napoca</j.2:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >14</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Nume>Universitatea Creştină "Partium" din Oradea</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >86</j.4:RMU>
+    <j.1:Universitate>P30</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >78</j.0:row>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2094</j.4:Localitate>
+    <j.2:Localitate>ORADEA</j.2:Localitate>
+    <j.3:web>https://www.partium.ro/ro</j.3:web>
+    <j.2:Judet>Bihor</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.1:Universitate>P15</j.1:Universitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13</j.4:Judet>
+    <j.3:web>https://www.ugb.ro/</j.3:web>
+    <j.2:Nume>Universitatea "George Bacovia" din Bacău</j.2:Nume>
+    <j.2:Localitate>BACĂU</j.2:Localitate>
+    <j.2:Judet>Bacău</j.2:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >65</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >71</j.4:RMU>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1585</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Nume>Universitatea "Dimitrie Cantemir" din Târgu Mureş</j.2:Nume>
+    <j.1:Universitate>P25</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >81</j.4:RMU>
+    <j.3:web>https://cantemir.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Mureş</j.2:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >74</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >37</j.4:Judet>
+    <j.2:Localitate>TÎRGU MUREŞ</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >8767</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >98</j.4:RMU>
+    <j.1:Universitate>PA07</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >85</j.0:row>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7630</j.4:Localitate>
+    <j.2:Judet>Iaşi</j.2:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Nume>Institutul Teologic Romano-Catolic din Iaşi</j.2:Nume>
+    <j.3:web>https://itrciasi.ro/homepage</j.3:web>
+    <j.2:Localitate>IAŞI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>https://www.ase.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >7</j.0:row>
+    <j.2:Nume>Academia de Studii Economice din Bucureşti</j.2:Nume>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.1:Universitate>U07</j.1:Universitate>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11010</j.4:Localitate>
+    <j.1:Universitate>U56</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Nume>Academia Forţelor Terestre "Nicolae Bălcescu" din Sibiu</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >56</j.4:RMU>
+    <j.2:Judet>Sibiu</j.2:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >51</j.0:row>
+    <j.2:Localitate>SIBIU</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >41</j.4:Judet>
+    <j.3:web>https://www.armyacademy.ro/</j.3:web>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >88</j.0:row>
+    <j.2:Nume>Fundaţia pentru Cultură şi Învăţământ "Ioan Slavici" - Universitatea "Ioan Slavici" din Timişoara</j.2:Nume>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.1:Universitate>PA13</j.1:Universitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >46</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >104</j.4:RMU>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11846</j.4:Localitate>
+    <j.2:Localitate>TIMIŞOARA</j.2:Localitate>
+    <j.2:Judet>Timiş</j.2:Judet>
+    <j.3:web>http://ns2.islavici.ro/</j.3:web>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Nume>Universitatea "Artifex" din Bucureşti</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.3:web>https://www.artifex.org.ro/</j.3:web>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >67</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >62</j.0:row>
+    <j.1:Universitate>P11</j.1:Universitate>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1000</j.4:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Nume>Universitatea din Piteşti</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >36</j.4:RMU>
+    <j.3:web>https://www.upit.ro/</j.3:web>
+    <j.2:Judet>Argeş</j.2:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >33</j.0:row>
+    <j.2:Localitate>PITEŞTI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2</j.4:Judet>
+    <j.1:Universitate>U36</j.1:Universitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:Universitate>U44</j.1:Universitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >37</j.4:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >44</j.4:RMU>
+    <j.2:Localitate>TÎRGU MUREŞ</j.2:Localitate>
+    <j.3:web>https://www.umfst.ro/home.html</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Mureş</j.2:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >97</j.0:row>
+    <j.2:Nume>Universitatea de Medicină, Farmacie, Științe și Tehnologie "George Emil Palade" din Târgu Mureș</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >8767</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Localitate>CLUJ-NAPOCA</j.2:Localitate>
+    <j.3:web>https://proteo.cj.edu.ro/ro</j.3:web>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >82</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:Judet>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Judet>Cluj</j.2:Judet>
+    <j.1:Universitate>P35</j.1:Universitate>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4413</j.4:Localitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >91</j.4:RMU>
+    <j.2:Nume>Institutul Teologic Protestant din Cluj-Napoca</j.2:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Localitate>SIBIU</j.2:Localitate>
+    <j.1:Universitate>P24</j.1:Universitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >41</j.4:Judet>
+    <j.2:Nume>Universitatea "Româno-Germană" din Sibiu</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11010</j.4:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >73</j.0:row>
+    <j.3:web>http://www.roger-univ.ro/</j.3:web>
+    <j.2:Judet>Sibiu</j.2:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >80</j.4:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.3:web>https://umfcd.ro/</j.3:web>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >6</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >6</j.0:row>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.1:Universitate>U06</j.1:Universitate>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.2:Nume>Universitatea de Medicină şi Farmacie "Carol Davila" din Bucureşti</j.2:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >91</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >112</j.4:RMU>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.1:Universitate>PA21</j.1:Universitate>
+    <j.3:web>www.lumina.org/ro</j.3:web>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.2:Nume>Fundaţia Lumina - Instituţii de Învăţământ - Universitatea Europei de Sud Est-Lumina</j.2:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Nume>Academia de Poliţie "Alexandru Ioan Cuza" din Bucureşti</j.2:Nume>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.3:web>https://www.academiadepolitie.ro/</j.3:web>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >53</j.4:RMU>
+    <j.1:Universitate>U53</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >48</j.0:row>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:Nume>Academia Tehnică Militară "Ferdinand I" din București</j.2:Nume>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.3:web>https://mta.ro/</j.3:web>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >96</j.0:row>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.1:Universitate>U50</j.1:Universitate>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >50</j.4:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3143</j.4:Localitate>
+    <j.2:Localitate>BRAŞOV</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:Judet>
+    <j.2:Judet>Braşov</j.2:Judet>
+    <j.1:Universitate>P16</j.1:Universitate>
+    <j.2:Nume>Universitatea "George Bariţiu" din Braşov</j.2:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >72</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >66</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Nume>Universitatea de Arhitectură şi Urbanism "Ion Mincu" din Bucureşti</j.2:Nume>
+    <j.1:Universitate>U03</j.1:Universitate>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.3:web>https://www.uauim.ro/</j.3:web>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >3</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3</j.4:RMU>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>https://unefsb.ro/</j.3:web>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >11</j.0:row>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.1:Universitate>U11</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.4:RMU>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Nume>Universitatea Naţională de Educaţie Fizică şi Sport din Bucureşti</j.2:Nume>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9284</j.4:Localitate>
+    <j.2:Localitate>ROMAN</j.2:Localitate>
+    <j.2:Nume>Institutul Teologic Romano-Catolic Franciscan din Roman</j.2:Nume>
+    <j.3:web>https://itrcf.ofmconv.ro/</j.3:web>
+    <j.2:Judet>Neamţ</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >38</j.4:Judet>
+    <j.1:Universitate>PA10</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >87</j.0:row>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >101</j.4:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:web>http://unarte.org/</j.3:web>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.4:RMU>
+    <j.2:Nume>Universitatea Naţională de Arte din Bucureşti</j.2:Nume>
+    <j.1:Universitate>U09</j.1:Universitate>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >9</j.0:row>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >92</j.0:row>
+    <j.2:Nume>Academia Romana</j.2:Nume>
+    <j.3:web>https://acad.ro/</j.3:web>
+    <j.1:Universitate>U57</j.1:Universitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >500</j.4:RMU>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >47</j.0:row>
+    <j.2:Nume>Academia Naţională de Informaţii "Mihai Viteazul" din Bucureşti</j.2:Nume>
+    <j.1:Universitate>U52</j.1:Universitate>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >52</j.4:RMU>
+    <j.3:web>https://animv.ro/</j.3:web>
+    <j.2:Localitate>BUCUREŞTI</j.2:Localitate>
+    <j.2:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.2:An>
+    <j.4:Judet rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:Judet>
+    <j.2:Judet>Bucureşti</j.2:Judet>
+    <j.4:Localitate rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13755</j.4:Localitate>
+  </rdf:Description>
+</rdf:RDF>

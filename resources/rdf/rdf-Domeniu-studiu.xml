@@ -1,0 +1,2089 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://w3c/future-csv-vocab/"
+    xmlns:j.1="http://example.org#ID%20Ramura%20"
+    xmlns:j.2="http://example.org#Domeniu%20"
+    xmlns:j.3="http://example.org#"
+    xmlns:j.4="http://example.org#ID%20Domeniu%20"
+    xmlns:j.5="http://example.org#ID%20"
+    xmlns:j.6="http://example.org#Ramura%20">
+  <rdf:Description>
+    <j.6:stiinta>Ingineria resurselor vegetale şi animale</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >41</j.5:RMU>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >40</j.0:row>
+    <j.3:Nume>Silvicultură</j.3:Nume>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.1:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >44</j.0:row>
+    <j.3:Nume>Inginerie genistică</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >45</j.5:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.4:fundamental>
+    <j.3:Nume>Chimie</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3</j.5:RMU>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3</j.1:stiinta>
+    <j.6:stiinta>Chimie şi inginerie chimică</j.6:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >3</j.0:row>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Matematică şi ştiinţe ale naturii</j.2:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >60</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >59</j.0:row>
+    <j.3:Nume>Ingineria materialelor</j.3:Nume>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >66</j.5:RMU>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >65</j.0:row>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.3:Nume>Inginerie şi management</j.3:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >8</j.1:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >59</j.5:RMU>
+    <j.6:stiinta>Ingineria transporturilor</j.6:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:Nume>Ingineria autovehiculelor</j.3:Nume>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >58</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:Nume>Horticultură</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.6:stiinta>Ingineria resurselor vegetale şi animale</j.6:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.1:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >40</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >39</j.0:row>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >33</j.1:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.2:fundamental>Ştiinţa Sportului şi Educaţiei Fizice</j.2:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >37</j.0:row>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >38</j.5:RMU>
+    <j.6:stiinta>Ştiinţa Sportului şi Educaţiei Fizice</j.6:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:fundamental>
+    <j.3:Nume>Educaţie fizică şi sport</j.3:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >14</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.6:stiinta>Medicină</j.6:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >78</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >75</j.0:row>
+    <j.3:Nume>Sănătate (Medicină - Reglementată general)</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >51</j.5:RMU>
+    <j.3:Nume>Inginerie de armament, rachete şi muniţii</j.3:Nume>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >50</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >8</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >7</j.0:row>
+    <j.6:stiinta>Ştiinţele pământului şi atmosferei</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:Nume>Ştiinţa mediului</j.3:Nume>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.4:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.1:stiinta>
+    <j.2:fundamental>Matematică şi ştiinţe ale naturii</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >56</j.5:RMU>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.3:Nume>Inginerie industrială</j.3:Nume>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >55</j.0:row>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >33</j.1:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >101</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >96</j.0:row>
+    <j.3:Nume>Știința sportului și educației fizice</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.2:fundamental>Ştiinţa Sportului şi Educaţiei Fizice</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.6:stiinta>Ştiinţa Sportului şi Educaţiei Fizice</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >93</j.5:RMU>
+    <j.3:Nume>Științe militare</j.3:Nume>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.1:stiinta>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >89</j.0:row>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.6:stiinta>Ştiinţe militare, informaţii şi ordine publică</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >85</j.5:RMU>
+    <j.3:Nume>Inginerie civilă și instalații</j.3:Nume>
+    <j.6:stiinta>Inginerie civilă</j.6:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >82</j.0:row>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5</j.1:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.6:stiinta>Ingineria resurselor vegetale şi animale</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >56</j.0:row>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:Nume>Inginerie forestieră</j.3:Nume>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >57</j.5:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >95</j.0:row>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.6:stiinta>Arte</j.6:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >100</j.5:RMU>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.3:Nume>Istoria și teoria artei</j.3:Nume>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >32</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >6</j.0:row>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.4:fundamental>
+    <j.3:Nume>Geologie</j.3:Nume>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.1:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7</j.5:RMU>
+    <j.2:fundamental>Matematică şi ştiinţe ale naturii</j.2:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.6:stiinta>Ştiinţele pământului şi atmosferei</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.6:stiinta>Ingineria resurselor vegetale şi animale</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.1:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >41</j.0:row>
+    <j.3:Nume>Zootehnie</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >42</j.5:RMU>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >64</j.0:row>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >10</j.1:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >65</j.5:RMU>
+    <j.6:stiinta>Ingineria sistemelor, calculatoare şi tehnologia informaţiei</j.6:stiinta>
+    <j.3:Nume>Ingineria sistemelor</j.3:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Inginerie genistică, Inginerie de armament, rachete și muniții</j.3:Nume>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >87</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >84</j.0:row>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >63</j.5:RMU>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.3:Nume>Arhitectură navală</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >62</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.6:stiinta>Arte</j.6:stiinta>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >31</j.0:row>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >32</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >32</j.5:RMU>
+    <j.3:Nume>Teatru şi artele spectacolului</j.3:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >99</j.0:row>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:Nume>Studii de securitate</j.3:Nume>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >118</j.5:RMU>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >22</j.1:stiinta>
+    <j.6:stiinta>Ştiinţe politice</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >88</j.5:RMU>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13</j.1:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >85</j.0:row>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.3:Nume>Biochimie</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.6:stiinta>Biochimie</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >6</j.1:stiinta>
+    <j.3:Nume>Inginerie energetică</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.6:stiinta>Inginerie electrică, electronică şi telecomunicaţii</j.6:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >54</j.5:RMU>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >53</j.0:row>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:Nume>Economie</j.3:Nume>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.1:stiinta>
+    <j.6:stiinta>Ştiinţe economice</j.6:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >23</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >86</j.5:RMU>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.3:Nume>Inginerie navală și navigație</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >83</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5</j.1:stiinta>
+    <j.3:Nume>Inginerie civilă</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.6:stiinta>Inginerie civilă</j.6:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >48</j.0:row>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >49</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Ştiinţe inginereşti aplicate</j.3:Nume>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >70</j.5:RMU>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >69</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.6:stiinta>Medicină veterinară</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >72</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >71</j.0:row>
+    <j.3:Nume>Medicină veterinară</j.3:Nume>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >15</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+  </rdf:Description>
+  <rdf:Description>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >6</j.5:RMU>
+    <j.6:stiinta>Ştiinţele pământului şi atmosferei</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.4:fundamental>
+    <j.3:Nume>Geografie</j.3:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >5</j.0:row>
+    <j.2:fundamental>Matematică şi ştiinţe ale naturii</j.2:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.1:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >33</j.0:row>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >32</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.3:Nume>Muzică</j.3:Nume>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >34</j.5:RMU>
+    <j.6:stiinta>Arte</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.1:stiinta>
+    <j.3:Nume>Agronomie</j.3:Nume>
+    <j.6:stiinta>Ingineria resurselor vegetale şi animale</j.6:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >38</j.0:row>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >39</j.5:RMU>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >79</j.0:row>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >82</j.5:RMU>
+    <j.3:Nume>Sănătate (Farmacie - Reglementată general)</j.3:Nume>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.1:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.6:stiinta>Farmacie</j.6:stiinta>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >36</j.0:row>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.6:stiinta>Arhitectură şi urbanism</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >31</j.1:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >37</j.5:RMU>
+    <j.3:Nume>Urbanism</j.3:Nume>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >63</j.0:row>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:Nume>Inginerie marină şi navigaţie</j.3:Nume>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >64</j.5:RMU>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >26</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >94</j.0:row>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >99</j.5:RMU>
+    <j.3:Nume>Filologie</j.3:Nume>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.6:stiinta>Filologie</j.6:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:Nume>Filosofie</j.3:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >8</j.0:row>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.5:RMU>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >27</j.1:stiinta>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.6:stiinta>Filosofie</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >33</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.6:stiinta>Ştiinţa Sportului şi Educaţiei Fizice</j.6:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.3:Nume>Management în sport</j.3:Nume>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >115</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >98</j.0:row>
+    <j.2:fundamental>Ştiinţa Sportului şi Educaţiei Fizice</j.2:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5</j.5:RMU>
+    <j.6:stiinta>Biologie</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.1:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >4</j.0:row>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Biologie</j.3:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.6:stiinta>Ştiinţa Sportului şi Educaţiei Fizice</j.6:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >73</j.0:row>
+    <j.2:fundamental>Ştiinţa Sportului şi Educaţiei Fizice</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >76</j.5:RMU>
+    <j.3:Nume>Kinetoterapie</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >33</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:Nume>Ingineria transporturilor</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.6:stiinta>Ingineria transporturilor</j.6:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >8</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >67</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >66</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >31</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >30</j.0:row>
+    <j.6:stiinta>Ştiinţe economice</j.6:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.1:stiinta>
+    <j.3:Nume>Marketing</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >30</j.5:RMU>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.6:stiinta>Ştiinţe economice</j.6:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.1:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Management</j.3:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >29</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >20</j.0:row>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >21</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.1:stiinta>
+    <j.3:Nume>Ştiinţe ale comunicării</j.3:Nume>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.6:stiinta>Ştiinţe ale comunicării</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >21</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >16</j.0:row>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.6:stiinta>Sociologie</j.6:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:Nume>Asistenţă socială</j.3:Nume>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >22</j.0:row>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.3:Nume>Psihologie</j.3:Nume>
+    <j.6:stiinta>Psihologie şi ştiinţe comportamentale</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >25</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.6:stiinta>Medicină dentară</j.6:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >81</j.5:RMU>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.3:Nume>Sănătate (Medicină Dentară - Reglementată general)</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >78</j.0:row>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.1:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.6:stiinta>Inginerie electrică, electronică şi telecomunicaţii</j.6:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >53</j.5:RMU>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >6</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >52</j.0:row>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Inginerie electronică, telecomunicaţii şi tehnologii informaţionale</j.3:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.6:stiinta>Matematică</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.1:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.4:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.2:fundamental>Matematică şi ştiinţe ale naturii</j.2:fundamental>
+    <j.3:Nume>Matematică</j.3:Nume>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >1</j.0:row>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.5:RMU>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >52</j.5:RMU>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >51</j.0:row>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >6</j.1:stiinta>
+    <j.6:stiinta>Inginerie electrică, electronică şi telecomunicaţii</j.6:stiinta>
+    <j.3:Nume>Inginerie electrică</j.3:Nume>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >77</j.5:RMU>
+    <j.6:stiinta>Medicină</j.6:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >74</j.0:row>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >14</j.1:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Sănătate (Medicină - Reglementată sectorial)</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.5:RMU>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >28</j.1:stiinta>
+    <j.3:Nume>Istorie</j.3:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >11</j.0:row>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.6:stiinta>Istorie</j.6:stiinta>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:Nume>Drept</j.3:Nume>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >15</j.5:RMU>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.1:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >14</j.0:row>
+    <j.6:stiinta>Ştiinţe juridice</j.6:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.6:stiinta>Biochimie</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13</j.1:stiinta>
+    <j.3:Nume>Biologie (Biochimie)</j.3:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >72</j.0:row>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >75</j.5:RMU>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:Nume>Contabilitate</j.3:Nume>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.1:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >26</j.0:row>
+    <j.6:stiinta>Ştiinţe economice</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >27</j.5:RMU>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.3:Nume>Sănătate (Medicină Dentară - Reglementată sectorial)</j.3:Nume>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >79</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.1:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >76</j.0:row>
+    <j.6:stiinta>Medicină dentară</j.6:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.1:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.3:Nume>Cibernetică, statistică şi informatică economică</j.3:Nume>
+    <j.6:stiinta>Ştiinţe economice</j.6:stiinta>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >28</j.5:RMU>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >27</j.0:row>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2</j.5:RMU>
+    <j.3:Nume>Fizică</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.4:fundamental>
+    <j.2:fundamental>Matematică şi ştiinţe ale naturii</j.2:fundamental>
+    <j.6:stiinta>Fizică</j.6:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2</j.1:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >2</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.6:stiinta>Ştiinţe economice</j.6:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >93</j.0:row>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.1:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >97</j.5:RMU>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:Nume>Informatică economică</j.3:Nume>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+  </rdf:Description>
+  <rdf:Description>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.5:RMU>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.6:stiinta>Ştiinţe politice</j.6:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >17</j.0:row>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >22</j.1:stiinta>
+    <j.3:Nume>Ştiinţe politice</j.3:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Studii culturale</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >12</j.0:row>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.6:stiinta>Studii culturale</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >30</j.1:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.3:Nume>Medicină dentară</j.3:Nume>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.1:stiinta>
+    <j.6:stiinta>Medicină dentară</j.6:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >87</j.0:row>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >90</j.5:RMU>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >86</j.0:row>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >89</j.5:RMU>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >14</j.1:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.3:Nume>Medicină</j.3:Nume>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.6:stiinta>Medicină</j.6:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:Nume>Ordine publică și siguranță națională</j.3:Nume>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.6:stiinta>Ştiinţe militare, informaţii şi ordine publică</j.6:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >91</j.0:row>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.1:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >95</j.5:RMU>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:Nume>Inginerie geologică</j.3:Nume>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >55</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >54</j.0:row>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.6:stiinta>Inginerie geologică, mine, petrol şi gaze</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7</j.1:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >92</j.0:row>
+    <j.3:Nume>Cibernetică și statistică</j.3:Nume>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.6:stiinta>Ştiinţe economice</j.6:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.1:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >96</j.5:RMU>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >25</j.0:row>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.1:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >26</j.5:RMU>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.6:stiinta>Ştiinţe economice</j.6:stiinta>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:Nume>Administrarea afacerilor</j.3:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.6:stiinta>Inginerie geologică, mine, petrol şi gaze</j.6:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >46</j.5:RMU>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7</j.1:stiinta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >45</j.0:row>
+    <j.3:Nume>Inginerie geodezică</j.3:Nume>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.3:Nume>Studiul patrimoniului (Heritage Studies)</j.3:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >81</j.0:row>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >84</j.5:RMU>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >28</j.1:stiinta>
+    <j.6:stiinta>Istorie</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >19</j.0:row>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.6:stiinta>Ştiinţe administrative</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:Nume>Ştiinţe administrative</j.3:Nume>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.1:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >97</j.0:row>
+    <j.3:Nume>Informatică</j.3:Nume>
+    <j.6:stiinta>Informatică</j.6:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >36</j.1:stiinta>
+    <j.2:fundamental>Matematică şi ştiinţe ale naturii</j.2:fundamental>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.4:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.1:stiinta>
+    <j.3:Nume>Biotehnologii</j.3:Nume>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >43</j.5:RMU>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >42</j.0:row>
+    <j.6:stiinta>Ingineria resurselor vegetale şi animale</j.6:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >46</j.0:row>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >8</j.1:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >47</j.5:RMU>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.6:stiinta>Ingineria transporturilor</j.6:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Inginerie aerospaţială</j.3:Nume>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Teologie</j.3:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >13</j.0:row>
+    <j.6:stiinta>Teologie</j.6:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >14</j.5:RMU>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >29</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:Nume>Ingineria instalaţiilor</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >49</j.0:row>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >50</j.5:RMU>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.6:stiinta>Inginerie civilă</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >43</j.0:row>
+    <j.3:Nume>Calculatoare şi tehnologia informaţiei</j.3:Nume>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >44</j.5:RMU>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.6:stiinta>Ingineria sistemelor, calculatoare şi tehnologia informaţiei</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >10</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >22</j.1:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.5:RMU>
+    <j.3:Nume>Relaţii internaţionale şi studii europene</j.3:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >18</j.0:row>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.6:stiinta>Ştiinţe politice</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.6:stiinta>Arte</j.6:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >33</j.5:RMU>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >32</j.1:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >32</j.0:row>
+    <j.3:Nume>Cinematografie şi media</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >77</j.0:row>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >80</j.5:RMU>
+    <j.6:stiinta>Farmacie</j.6:stiinta>
+    <j.3:Nume>Sănătate (Farmacie - Reglementată sectorial)</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.1:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >15</j.0:row>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >21</j.1:stiinta>
+    <j.6:stiinta>Sociologie</j.6:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.5:RMU>
+    <j.3:Nume>Sociologie</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.6:stiinta>Ştiinţe militare, informaţii şi ordine publică</j.6:stiinta>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >90</j.0:row>
+    <j.3:Nume>Informații și securitate națională</j.3:Nume>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >94</j.5:RMU>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >61</j.0:row>
+    <j.3:Nume>Ingineria mediului</j.3:Nume>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >62</j.5:RMU>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Arte vizuale</j.3:Nume>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >35</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >34</j.0:row>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >32</j.1:stiinta>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.6:stiinta>Arte</j.6:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >80</j.0:row>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >83</j.5:RMU>
+    <j.3:Nume>Inginerie şi management în agricultură şi dezvoltare rurală</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.6:stiinta>Ingineria resurselor vegetale şi animale</j.6:stiinta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >28</j.0:row>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >29</j.5:RMU>
+    <j.6:stiinta>Ştiinţe economice</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:Nume>Economie şi afaceri internaţionale</j.3:Nume>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.1:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >25</j.1:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >21</j.0:row>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:Nume>Ştiinţe ale educaţiei</j.3:Nume>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >22</j.5:RMU>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.6:stiinta>Psihologie şi ştiinţe comportamentale</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >47</j.0:row>
+    <j.2:fundamental>Matematică şi ştiinţe ale naturii</j.2:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Inginerie chimică</j.3:Nume>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >48</j.5:RMU>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.6:stiinta>Chimie şi inginerie chimică</j.6:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.4:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.6:stiinta>Ştiinţe militare, informaţii şi ordine publică</j.6:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >71</j.5:RMU>
+    <j.3:Nume>Ştiinţe militare, informaţii şi ordine publică</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >70</j.0:row>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.6:stiinta>Arhitectură şi urbanism</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >36</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >35</j.0:row>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Arhitectură</j.3:Nume>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >31</j.1:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >61</j.5:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >60</j.0:row>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+    <j.3:Nume>Inginerie mecanică</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.1:stiinta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:Nume>Ingineria produselor alimentare</j.3:Nume>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >57</j.0:row>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >58</j.5:RMU>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.6:stiinta>Ingineria resurselor vegetale şi animale</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.3:Nume>Limbi moderne aplicate</j.3:Nume>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.5:RMU>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >26</j.1:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >10</j.0:row>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.6:stiinta>Filologie</j.6:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >25</j.5:RMU>
+    <j.3:Nume>Finanţe</j.3:Nume>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.6:stiinta>Ştiinţe economice</j.6:stiinta>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.1:stiinta>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe sociale</j.2:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >24</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:Nume>Mecatronică şi robotică</j.3:Nume>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >68</j.5:RMU>
+    <j.6:stiinta>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.6:stiinta>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >67</j.0:row>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:stiinta>
+  </rdf:Description>
+  <rdf:Description>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:fundamental>
+    <j.6:stiinta>Farmacie</j.6:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >91</j.5:RMU>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.1:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >88</j.0:row>
+    <j.2:fundamental>Ştiinţe biologice şi biomedicale</j.2:fundamental>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isLicenta>
+    <j.3:Nume>Farmacie</j.3:Nume>
+  </rdf:Description>
+  <rdf:Description>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >68</j.0:row>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:fundamental>
+    <j.2:fundamental>Ştiinţe inginereşti</j.2:fundamental>
+    <j.6:stiinta>Inginerie geologică, mine, petrol şi gaze</j.6:stiinta>
+    <j.3:Nume>Mine, petrol şi gaze</j.3:Nume>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isMaster>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7</j.1:stiinta>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >69</j.5:RMU>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+  <rdf:Description>
+    <j.3:Nume>Limbă şi literatură</j.3:Nume>
+    <j.4:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:fundamental>
+    <j.5:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >10</j.5:RMU>
+    <j.3:isDoctorat rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isDoctorat>
+    <j.1:stiinta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >26</j.1:stiinta>
+    <j.3:isMaster rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >0</j.3:isMaster>
+    <j.2:fundamental>Ştiinţe umaniste şi arte</j.2:fundamental>
+    <j.6:stiinta>Filologie</j.6:stiinta>
+    <j.3:isLicenta rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.3:isLicenta>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >9</j.0:row>
+    <j.3:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.3:An>
+  </rdf:Description>
+</rdf:RDF>

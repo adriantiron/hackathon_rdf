@@ -1,0 +1,99 @@
+ID RMU,Nume,Cod Universitate,Judet,ID Judet,Localitate,ID Localitate,An,Adresa web
+1,Universitatea Politehnica din Bucureşti,U01,Bucureşti,4,BUCUREŞTI,13755,2020,https://upb.ro/
+2,Universitatea Tehnică de Construcţii din Bucureşti,U02,Bucureşti,4,BUCUREŞTI,13755,2020,https://utcb.ro/
+3,"Universitatea de Arhitectură şi Urbanism ""Ion Mincu"" din Bucureşti",U03,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.uauim.ro/
+4,Universitatea de Științe Agronomice și Medicină Veterinară din București,U04,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.usamv.ro/index.php/ro/
+5,Universitatea din Bucureşti,U05,Bucureşti,4,BUCUREŞTI,13755,2020,https://unibuc.ro/
+6,"Universitatea de Medicină şi Farmacie ""Carol Davila"" din Bucureşti",U06,Bucureşti,4,BUCUREŞTI,13755,2020,https://umfcd.ro/
+7,Academia de Studii Economice din Bucureşti,U07,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.ase.ro/
+8,Universitatea Naţională de Muzică din Bucureşti,U08,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.unmb.ro/
+9,Universitatea Naţională de Arte din Bucureşti,U09,Bucureşti,4,BUCUREŞTI,13755,2020,http://unarte.org/
+10,"Universitatea Naţională de Artă Teatrală şi Cinematografică ""I. L. Caragiale"" din Bucureşti",U10,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.unatc.ro/prezentare/index.php
+11,Universitatea Naţională de Educaţie Fizică şi Sport din Bucureşti,U11,Bucureşti,4,BUCUREŞTI,13755,2020,https://unefsb.ro/
+12,Şcoala Naţională de Studii Politice şi Administrative din Bucureşti,U12,Bucureşti,4,BUCUREŞTI,13755,2020,http://snspa.ro/
+13,"Universitatea ""1 decembrie 1918"" din Alba Iulia",U13,Alba,1,ALBA IULIA,1,2020,http://www.uab.ro/
+14,"Universitatea ""Aurel Vlaicu"" din Arad",U14,Arad,3,ARAD,717,2020,https://www.uav.ro/
+15,"Universitatea ""Vasile Alecsandri"" din Bacău",U15,Bacău,13,BACĂU,1585,2020,https://www.ub.ro/
+17,"Universitatea ""Transilvania"" din Braşov",U17,Braşov,18,BRAŞOV,3143,2020,https://www.unitbv.ro/
+18,Universitatea Tehnică din Cluj-Napoca,U18,Cluj,20,CLUJ-NAPOCA,4413,2020,https://www.utcluj.ro/
+19,Universitatea de Ştiinţe Agricole şi Medicină Veterinară din Cluj-Napoca,U19,Cluj,20,CLUJ-NAPOCA,4413,2020,https://www.usamvcluj.ro/
+20,"Universitatea ""Babeş-Bolyai"" din Cluj-Napoca",U20,Cluj,20,CLUJ-NAPOCA,4413,2020,https://www.ubbcluj.ro/ro/
+21,"Universitatea de Medicină şi Farmacie ""Iuliu Haţieganu"" din Cluj-Napoca",U21,Cluj,20,CLUJ-NAPOCA,4413,2020,http://www.umfcluj.ro/
+22,"Academia de Muzică ""Gheorghe Dima"" din Cluj-Napoca",U22,Cluj,20,CLUJ-NAPOCA,4413,2020,http://anmgd.ro/
+23,Universitatea de Artă şi Design din Cluj-Napoca,U23,Cluj,20,CLUJ-NAPOCA,4413,2020,http://www.uad.ro/
+24,"Universitatea ""Ovidius"" din Constanţa",U24,Constanţa,23,CONSTANŢA,4847,2020,https://www.univ-ovidius.ro/
+25,Universitatea Maritimă din Constanţa,U25,Constanţa,23,CONSTANŢA,4847,2020,https://cmu-edu.eu/
+26,Universitatea din Craiova,U26,Dolj,26,CRAIOVA,5562,2020,https://www.ucv.ro/
+27,Universitatea de Medicină şi Farmacie din Craiova,U27,Dolj,26,CRAIOVA,5562,2020,http://www.umfcv.ro/
+28,"Universitatea ""Dunărea de Jos"" din Galaţi",U28,Galaţi,28,GALAŢI,5952,2020,https://www.ugal.ro/
+29,"Universitatea Tehnică ""Gheorghe Asachi"" din Iaşi",U29,Iaşi,34,IAŞI,7630,2020,https://www.tuiasi.ro/
+30,"Universitatea de Ştiinţe Agricole şi Medicină Veterinară ""Ion Ionescu de La Brad"" din Iaşi",U30,Iaşi,34,IAŞI,7630,2020,https://www.uaiasi.ro/
+31,"Universitatea ""Alexandru Ioan Cuza"" din Iaşi",U31,Iaşi,34,IAŞI,7630,2020,https://www.uaic.ro/
+34,Universitatea din Oradea,U34,Bihor,14,ORADEA,2094,2020,https://www.uoradea.ro/Universitatea+din+Oradea
+35,Universitatea din Petroşani,U35,Hunedoara,30,PETROŞANI,7022,2020,https://www.upet.ro/
+36,Universitatea din Piteşti,U36,Argeş,2,PITEŞTI,1000,2020,https://www.upit.ro/
+37,Universitatea Petrol-Gaze din Ploieşti,U37,Prahova,40,PLOIEŞTI,10029,2020,https://www.upg-ploiesti.ro/
+38,"Universitatea ""Eftimie Murgu"" din Reşiţa",U38,Caraş-Severin,22,REŞIŢA,3939,2020,https://uem.ro/
+39,"Universitatea ""Lucian Blaga"" din Sibiu",U39,Sibiu,41,SIBIU,11010,2020,https://www.ulbsibiu.ro/ro/
+40,"Universitatea ""Ştefan cel Mare"" din Suceava",U40,Suceava,44,SUCEAVA,11198,2020,https://usv.ro/
+41,"Universitatea ""Valahia"" din Târgovişte",U41,Dâmboviţa,25,TÎRGOVIŞTE,5188,2020,https://www.valahia.ro/ro/
+42,"Universitatea ""Constantin Brâncuşi"" din Târgu Jiu",U42,Gorj,27,TÎRGU JIU,6305,2020,https://www.utgjiu.ro/
+43,"Universitatea ""Petru Maior"" din Târgu Mureş",U43,Mureş,37,TÎRGU MUREŞ,8767,2020,https://old.upm.ro/
+45,Universitatea de Arte din Târgu Mureş,U45,Mureş,37,TÎRGU MUREŞ,8767,2020,https://www.uat.ro/acasa
+46,Universitatea Politehnica Timişoara,U46,Timiş,46,TIMIŞOARA,11846,2020,https://www.upt.ro/
+47,"Universitatea de Ştiinţe Agricole şi Medicină Veterinară a Banatului ""Regele Mihai I al României"" din Timişoara",U47,Timiş,46,TIMIŞOARA,11846,2020,https://www.usab-tm.ro/ro
+48,Universitatea de Vest din Timişoara,U48,Timiş,46,TIMIŞOARA,11846,2020,https://www.uvt.ro/ro/
+49,"Universitatea de Medicină şi Farmacie ""Victor Babeş"" din Timişoara",U49,Timiş,46,TIMIŞOARA,11846,2020,http://www.umft.ro/
+51,"Universitatea Naţională de Apărare ""Carol I"" din Bucureşti",U51,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.unap.ro/
+52,"Academia Naţională de Informaţii ""Mihai Viteazul"" din Bucureşti",U52,Bucureşti,4,BUCUREŞTI,13755,2020,https://animv.ro/
+53,"Academia de Poliţie ""Alexandru Ioan Cuza"" din Bucureşti",U53,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.academiadepolitie.ro/
+54,"Academia Forţelor Aeriene ""Henri Coandă"" din Braşov",U54,Braşov,18,BRAŞOV,3143,2020,http://www.afahc.ro/
+55,"Academia Navală ""Mircea cel Bătrân"" din Constanţa",U55,Constanţa,23,CONSTANŢA,4847,2020,https://www.anmb.ro/#gsc.tab=0
+56,"Academia Forţelor Terestre ""Nicolae Bălcescu"" din Sibiu",U56,Sibiu,41,SIBIU,11010,2020,https://www.armyacademy.ro/
+57,"Universitatea Creştină ""Dimitrie Cantemir"" din Bucureşti",P01,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.ucdc.ro/
+58,"Universitatea ""Titu Maiorescu"" din Bucureşti",P02,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.utm.ro/
+59,"Universitatea ""Nicolae Titulescu"" din Bucureşti",P03,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.univnt.ro/
+60,Universitatea Româno-Americană din Bucureşti,P04,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.rau.ro/
+61,"Universitatea ""Hyperion"" din Bucureşti",P05,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.hyperion.ro/
+62,"Universitatea ""Spiru Haret"" din Bucureşti",P06,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.spiruharet.ro/
+63,"Universitatea ""Bioterra"" din Bucureşti",P07,Bucureşti,4,BUCUREŞTI,13755,2020,https://bioterra.ro/
+64,Universitatea Ecologică din Bucureşti,P08,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.ueb.ro/
+65,"Universitatea Română de Ştiinţe şi Arte ""Gheorghe Cristea"" din Bucureşti",P09,Bucureşti,4,BUCUREŞTI,13755,2020,http://ugc.ro
+66,"Universitatea ""Athenaeum"" din Bucureşti",P10,Bucureşti,4,BUCUREŞTI,13755,2020,http://nou.univath.ro/
+67,"Universitatea ""Artifex"" din Bucureşti",P11,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.artifex.org.ro/
+69,Institutul Teologic Baptist din Bucureşti,P13,Bucureşti,4,BUCUREŞTI,13755,2020,https://itb.ro/
+70,"Universitatea de Vest ""Vasile Goldiş"" din Arad",P14,Arad,3,ARAD,717,2020,https://www.uvvg.ro/site/
+71,"Universitatea ""George Bacovia"" din Bacău",P15,Bacău,13,BACĂU,1585,2020,https://www.ugb.ro/
+72,"Universitatea ""George Bariţiu"" din Braşov",P16,Braşov,18,BRAŞOV,3143,2020
+73,"Universitatea ""Bogdan Vodă"" din Cluj-Napoca",P17,Cluj,20,CLUJ-NAPOCA,4413,2020,http://www.ubv.ro/
+74,"Universitatea ""Andrei Şaguna"" din Constanţa",P18,Constanţa,23,CONSTANŢA,4847,2020,https://andreisaguna.ro/
+75,"Universitatea ""Danubius"" din Galaţi",P19,Galaţi,28,GALAŢI,5952,2020,https://www.univ-danubius.ro/
+76,"Universitatea Europeană ""Drăgan"" din Lugoj",P20,Timiş,46,LUGOJ,11847,2020,http://www.universitateaeuropeanadragan.ro/
+78,"Universitatea ""Emanuel"" din Oradea",P22,Bihor,14,ORADEA,2094,2020,https://www.emanuel.ro/
+79,"Universitatea ""Constantin Brâncoveanu"" din Piteşti",P23,Argeş,2,PITEŞTI,1000,2020,http://www.univcb.ro/
+80,"Universitatea ""Româno-Germană"" din Sibiu",P24,Sibiu,41,SIBIU,11010,2020,http://www.roger-univ.ro/
+81,"Universitatea ""Dimitrie Cantemir"" din Târgu Mureş",P25,Mureş,37,TÎRGU MUREŞ,8767,2020,https://cantemir.ro/
+83,"Universitatea ""Tibiscus"" din Timişoara",P27,Timiş,46,TIMIŞOARA,11846,2020,https://www.tibiscus.ro/
+84,"Universitatea ""Avram Iancu"" din Cluj-Napoca",P28,Cluj,20,CLUJ-NAPOCA,4413,2020,www.uai-cluj.ro
+85,Institutul Teologic Penticostal din Bucureşti,P29,Bucureşti,4,BUCUREŞTI,13755,2020,https://www.itpbucuresti.ro/
+86,"Universitatea Creştină ""Partium"" din Oradea",P30,Bihor,14,ORADEA,2094,2020,https://www.partium.ro/ro
+87,"Universitatea ""Petre Andrei"" din Iaşi",P31,Iaşi,34,IAŞI,7630,2020,http://www.upa.ro/
+88,"Universitatea ""Apollonia"" din Iaşi",P32,Iaşi,34,IAŞI,7630,2020,https://www.univapollonia.ro/
+90,Institutul de Administrare a Afacerilor din Bucureşti,P34,Bucureşti,4,BUCUREŞTI,13755,2020,http://www.asebuss.ro
+91,Institutul Teologic Protestant din Cluj-Napoca,P35,Cluj,20,CLUJ-NAPOCA,4413,2020,https://proteo.cj.edu.ro/ro
+95,"Universitatea ""Sapientia"" din Cluj-Napoca",PA04,Cluj,20,CLUJ-NAPOCA,4413,2020,http://www.sapientia.ro/ro/facultati/cluj-napoca
+97,"Fundaţia ""Ştefan Lupaşcu"" - Institutul de Studii Europene din Iaşi",PA06,Iaşi,34,IAŞI,7630,2020,http://www.univ-st-lupascu.ro/
+98,Institutul Teologic Romano-Catolic din Iaşi,PA07,Iaşi,34,IAŞI,7630,2020,https://itrciasi.ro/homepage
+100,Universitatea Agora din Municipiul Oradea,PA09,Bihor,14,ORADEA,2094,2020,http://univagora.ro/
+101,Institutul Teologic Romano-Catolic Franciscan din Roman,PA10,Neamţ,38,ROMAN,9284,2020,https://itrcf.ofmconv.ro/
+104,"Fundaţia pentru Cultură şi Învăţământ ""Ioan Slavici"" - Universitatea ""Ioan Slavici"" din Timişoara",PA13,Timiş,46,TIMIŞOARA,11846,2020,http://ns2.islavici.ro/
+110,"Fundaţia ""Gaudeamus"" - Universitatea ""Tomis"" din Constanţa",PA19,Constanţa,23,CONSTANŢA,4847,2020,https://www.univ-tomis.ro/
+111,"Institutul Teologic Creştin după Evanghelie ""Timotheus"" din Bucureşti",PA20,Bucureşti,4,BUCUREŞTI,13755,2020,http://timotheus.ro/
+112,Fundaţia Lumina - Instituţii de Învăţământ - Universitatea Europei de Sud Est-Lumina,PA21,Bucureşti,4,BUCUREŞTI,13755,2020,www.lumina.org/ro
+500,Academia Romana,U57,Bucureşti,4,BUCUREŞTI,13755,2020,https://acad.ro/
+33,"Universitatea Naţională de Arte ""George Enescu"" din Iaşi",U33,Iaşi,34,IAŞI,7630,2020,http://www.arteiasi.ro/
+506,Şcoala Normală Superioară - Bucureşti (S.N.S.B),Bucureşti,4,BUCUREŞTI,13755,2020,http://www.imar.ro/~snsb/
+94,"Universitatea ""Adventus"" din Cernica",PA03,Ilfov,32,CERNICA,15929,2020,https://uadventus.ro/
+50,"Academia Tehnică Militară ""Ferdinand I"" din București",U50,Bucureşti,4,BUCUREŞTI,13755,2020,https://mta.ro/
+44,"Universitatea de Medicină, Farmacie, Științe și Tehnologie ""George Emil Palade"" din Târgu Mureș",U44,Mureş,37,TÎRGU MUREŞ,8767,2020,https://www.umfst.ro/home.html
+32,"Universitatea de Medicină şi Farmacie ""Grigore T. Popa"" din Iaşi",U32,Iaşi,34,IAŞI,7630,2020,https://www.umfiasi.ro/ro

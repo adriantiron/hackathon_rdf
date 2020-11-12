@@ -1,0 +1,35 @@
+ID RMU,Nume,Domeniu Fundamental,ID Domeniu fundamental
+1,Matematică,Matematică şi ştiinţe ale naturii,16
+2,Fizică,Matematică şi ştiinţe ale naturii,16
+3,Chimie şi inginerie chimică,Matematică şi ştiinţe ale naturii,16
+4,Ştiinţele pământului şi atmosferei,Matematică şi ştiinţe ale naturii,16
+5,Inginerie civilă,Ştiinţe inginereşti,12
+6,"Inginerie electrică, electronică şi telecomunicaţii",Ştiinţe inginereşti,12
+7,"Inginerie geologică, mine, petrol şi gaze",Ştiinţe inginereşti,12
+8,Ingineria transporturilor,Ştiinţe inginereşti,12
+9,Ingineria resurselor vegetale şi animale,Ştiinţe inginereşti,12
+10,"Ingineria sistemelor, calculatoare şi tehnologia informaţiei",Ştiinţe inginereşti,12
+11,"Inginerie mecanică, mecatronică, inginerie industrială şi management",Ştiinţe inginereşti,12
+12,Biologie,Ştiinţe biologice şi biomedicale,17
+13,Biochimie,Ştiinţe biologice şi biomedicale,17
+14,Medicină,Ştiinţe biologice şi biomedicale,17
+15,Medicină veterinară,Ştiinţe biologice şi biomedicale,17
+16,Medicină dentară,Ştiinţe biologice şi biomedicale,17
+17,Farmacie,Ştiinţe biologice şi biomedicale,17
+18,Ştiinţe juridice,Ştiinţe sociale,18
+19,Ştiinţe administrative,Ştiinţe sociale,18
+20,Ştiinţe ale comunicării,Ştiinţe sociale,18
+21,Sociologie,Ştiinţe sociale,18
+22,Ştiinţe politice,Ştiinţe sociale,18
+23,"Ştiinţe militare, informaţii şi ordine publică",Ştiinţe sociale,18
+24,Ştiinţe economice,Ştiinţe sociale,18
+25,Psihologie şi ştiinţe comportamentale,Ştiinţe sociale,18
+26,Filologie,Ştiinţe umaniste şi arte,19
+27,Filosofie,Ştiinţe umaniste şi arte,19
+28,Istorie,Ştiinţe umaniste şi arte,19
+29,Teologie,Ştiinţe umaniste şi arte,19
+30,Studii culturale,Ştiinţe umaniste şi arte,19
+31,Arhitectură şi urbanism,Ştiinţe umaniste şi arte,19
+32,Arte,Ştiinţe umaniste şi arte,19
+33,Ştiinţa Sportului şi Educaţiei Fizice,Ştiinţa Sportului şi Educaţiei Fizice,20
+36,Informatică,Matematică şi ştiinţe ale naturii,16

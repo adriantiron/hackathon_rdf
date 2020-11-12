@@ -1,0 +1,348 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://w3c/future-csv-vocab/"
+    xmlns:j.1="http://example.org#Domeniu%20"
+    xmlns:j.2="http://example.org#ID%20Domeniu%20"
+    xmlns:j.3="http://example.org#"
+    xmlns:j.4="http://example.org#ID%20">
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe inginereşti</j.1:Fundamental>
+    <j.3:Nume>Inginerie geologică, mine, petrol şi gaze</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >7</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >7</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe biologice şi biomedicale</j.1:Fundamental>
+    <j.3:Nume>Medicină dentară</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >16</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe sociale</j.1:Fundamental>
+    <j.3:Nume>Ştiinţe juridice</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >18</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe sociale</j.1:Fundamental>
+    <j.3:Nume>Psihologie şi ştiinţe comportamentale</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >25</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >25</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe umaniste şi arte</j.1:Fundamental>
+    <j.3:Nume>Filosofie</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >27</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >27</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe umaniste şi arte</j.1:Fundamental>
+    <j.3:Nume>Filologie</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >26</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >26</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.2:fundamental>
+    <j.1:Fundamental>Matematică şi ştiinţe ale naturii</j.1:Fundamental>
+    <j.3:Nume>Informatică</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >36</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >34</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe biologice şi biomedicale</j.1:Fundamental>
+    <j.3:Nume>Medicină</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >14</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >14</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.2:fundamental>
+    <j.1:Fundamental>Matematică şi ştiinţe ale naturii</j.1:Fundamental>
+    <j.3:Nume>Fizică</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >2</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe sociale</j.1:Fundamental>
+    <j.3:Nume>Ştiinţe militare, informaţii şi ordine publică</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >23</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe umaniste şi arte</j.1:Fundamental>
+    <j.3:Nume>Studii culturale</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >30</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >30</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe sociale</j.1:Fundamental>
+    <j.3:Nume>Ştiinţe economice</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >24</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >24</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe inginereşti</j.1:Fundamental>
+    <j.3:Nume>Inginerie electrică, electronică şi telecomunicaţii</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >6</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >6</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.2:fundamental>
+    <j.1:Fundamental>Matematică şi ştiinţe ale naturii</j.1:Fundamental>
+    <j.3:Nume>Ştiinţele pământului şi atmosferei</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >4</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe biologice şi biomedicale</j.1:Fundamental>
+    <j.3:Nume>Medicină veterinară</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >15</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >15</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe sociale</j.1:Fundamental>
+    <j.3:Nume>Ştiinţe politice</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >22</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >22</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe umaniste şi arte</j.1:Fundamental>
+    <j.3:Nume>Istorie</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >28</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >28</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe sociale</j.1:Fundamental>
+    <j.3:Nume>Ştiinţe ale comunicării</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >20</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe umaniste şi arte</j.1:Fundamental>
+    <j.3:Nume>Arhitectură şi urbanism</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >31</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >31</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.2:fundamental>
+    <j.1:Fundamental>Matematică şi ştiinţe ale naturii</j.1:Fundamental>
+    <j.3:Nume>Chimie şi inginerie chimică</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >3</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >3</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe inginereşti</j.1:Fundamental>
+    <j.3:Nume>Ingineria resurselor vegetale şi animale</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >9</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >9</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe inginereşti</j.1:Fundamental>
+    <j.3:Nume>Inginerie mecanică, mecatronică, inginerie industrială şi management</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >11</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe umaniste şi arte</j.1:Fundamental>
+    <j.3:Nume>Arte</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >32</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >32</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe biologice şi biomedicale</j.1:Fundamental>
+    <j.3:Nume>Biologie</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >12</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe sociale</j.1:Fundamental>
+    <j.3:Nume>Sociologie</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >21</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >21</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe biologice şi biomedicale</j.1:Fundamental>
+    <j.3:Nume>Farmacie</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >17</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe umaniste şi arte</j.1:Fundamental>
+    <j.3:Nume>Teologie</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >29</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >29</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe inginereşti</j.1:Fundamental>
+    <j.3:Nume>Ingineria sistemelor, calculatoare şi tehnologia informaţiei</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >10</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >10</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe inginereşti</j.1:Fundamental>
+    <j.3:Nume>Inginerie civilă</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >5</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >5</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţa Sportului şi Educaţiei Fizice</j.1:Fundamental>
+    <j.3:Nume>Ştiinţa Sportului şi Educaţiei Fizice</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >33</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >33</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.2:fundamental>
+    <j.1:Fundamental>Matematică şi ştiinţe ale naturii</j.1:Fundamental>
+    <j.3:Nume>Matematică</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >1</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe inginereşti</j.1:Fundamental>
+    <j.3:Nume>Ingineria transporturilor</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >8</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >8</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe biologice şi biomedicale</j.1:Fundamental>
+    <j.3:Nume>Biochimie</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >13</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >13</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.2:fundamental rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.2:fundamental>
+    <j.1:Fundamental>Ştiinţe sociale</j.1:Fundamental>
+    <j.3:Nume>Ştiinţe administrative</j.3:Nume>
+    <j.4:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.4:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >19</j.0:row>
+  </rdf:Description>
+</rdf:RDF>

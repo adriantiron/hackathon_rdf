@@ -1,0 +1,60 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://w3c/future-csv-vocab/"
+    xmlns:j.1="http://example.org#"
+    xmlns:j.2="http://example.org#ID%20">
+  <rdf:Description>
+    <j.1:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.1:An>
+    <j.1:Nume>Ştiinţe biologice şi biomedicale</j.1:Nume>
+    <j.2:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >17</j.2:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >3</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.1:An>
+    <j.1:Nume>Matematică şi ştiinţe ale naturii</j.1:Nume>
+    <j.2:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >16</j.2:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >2</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.1:An>
+    <j.1:Nume>Ştiinţe inginereşti</j.1:Nume>
+    <j.2:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.2:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >1</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.1:An>
+    <j.1:Nume>Ştiinţe sociale</j.1:Nume>
+    <j.2:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >18</j.2:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >4</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.1:An>
+    <j.1:Nume>Ştiinţa Sportului şi Educaţiei Fizice</j.1:Nume>
+    <j.2:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >20</j.2:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >6</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:An rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >2020</j.1:An>
+    <j.1:Nume>Ştiinţe umaniste şi arte</j.1:Nume>
+    <j.2:RMU rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >19</j.2:RMU>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >5</j.0:row>
+  </rdf:Description>
+</rdf:RDF>
